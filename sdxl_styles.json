@@ -3,6 +3,114 @@
     "name": "base",
     "prompt": "{prompt}",
     "negative_prompt": ""
+  },{
+    "name": "Gothic Horror",
+    "prompt": "dark gothic horror scene {prompt} . high contrast, eerie shadows, oil painting, highly detailed, chiaroscuro lighting, macabre",
+    "negative_prompt": "bright, cheerful, cartoon, digital, abstract, undetailed"
+  },
+  {
+    "name": "Victorian Dark",
+    "prompt": "Victorian era dark portrait {prompt} . somber colors, heavy drapery, candlelit, textured brushwork, melancholic atmosphere",
+    "negative_prompt": "modern, light, vibrant, minimalism, sketch, flat"
+  },
+  {
+    "name": "Noir Suspense",
+    "prompt": "film noir suspense scene {prompt} . black and white, high contrast, shadow play, suspenseful, atmospheric",
+    "negative_prompt": "colorful, bright, flat lighting, abstract, cheerful"
+  },
+  {
+    "name": "Post-Apocalyptic",
+    "prompt": "post-apocalyptic cityscape {prompt} . dark, desolate, crumbling structures, overcast sky, moody, oil painting",
+    "negative_prompt": "pristine, lively, digital art, cartoon, bright"
+  },
+  {
+    "name": "Dark Fantasy",
+    "prompt": "dark fantasy landscape {prompt} . sinister forest, mist, twilight, highly detailed, traditional painting",
+    "negative_prompt": "cartoon, daylit, clear sky, digital, simplistic"
+  },
+  {
+    "name": "Neo-Noir Cyberpunk",
+    "prompt": "neo-noir cyberpunk alleyway {prompt} . wet streets, neon lights, dark shadows, oil painting, atmospheric",
+    "negative_prompt": "sunny, cheerful, traditional, bright, clean"
+  },
+  {
+    "name": "Supernatural Mystery",
+    "prompt": "supernatural mystery scene {prompt} . ghostly apparitions, dimly lit, eerie, oil on canvas, atmospheric",
+    "negative_prompt": "bright, clear, digital, cartoon, simplistic"
+  },
+  {
+    "name": "Medieval Dark Age",
+    "prompt": "medieval dark age battle scene {prompt} . brooding sky, muddy fields, traditional painting, high drama",
+    "negative_prompt": "bright, peaceful, digital, undetailed, modern"
+  },
+  {
+    "name": "Abandoned Gothic",
+    "prompt": "abandoned gothic cathedral interior {prompt} . shadowy, cobwebs, dust particles, oil painting, silent atmosphere",
+    "negative_prompt": "well-lit, occupied, clean, digital, vibrant"
+  },
+  {
+    "name": "Haunted Victorian",
+    "prompt": "haunted Victorian mansion {prompt} . moonlit, decaying elegance, oil painting, dark romance",
+    "negative_prompt": "sunny, modern, cheerful, digital, flat"
+  }, {
+    "name": "Dark Renaissance",
+    "prompt": "dark renaissance scene {prompt} . shadowed figures, muted palette, oil on canvas, dramatic lighting, somber",
+    "negative_prompt": "bright, pop art, digital, simplistic, abstract"
+  },
+  {
+    "name": "Baroque Nightmares",
+    "prompt": "baroque style nightmare {prompt} . turbulent skies, intense emotions, dark palette, oil painting, dramatic contrast",
+    "negative_prompt": "cheerful, cartoonish, flat, bright, modern"
+  },
+  {
+    "name": "Expressionist Fears",
+    "prompt": "expressionist fear portrayal {prompt} . distorted shapes, dark tones, anguished expressions, thick brush strokes",
+    "negative_prompt": "realistic, bright, digital, minimalist, cheerful"
+  },
+  {
+    "name": "Surreal Dystopia",
+    "prompt": "surreal dystopian vision {prompt} . unsettling landscapes, bizarre structures, dark surrealism, oil on canvas",
+    "negative_prompt": "realistic, bright, digital, orderly, cheerful"
+  },
+  {
+    "name": "Decadent Dark Age",
+    "prompt": "decadent dark age scene {prompt} . decaying opulence, shadowed halls, oil painting, heavy textures",
+    "negative_prompt": "modern, vibrant, minimalist, digital, bright"
+  },
+  {
+    "name": "Melancholic Seascapes",
+    "prompt": "melancholic seascape {prompt} . turbulent waters, stormy skies, dark and brooding, oil on canvas",
+    "negative_prompt": "calm, sunny, digital, simplistic, cheerful"
+  },
+  {
+    "name": "Cursed Pirate Ship",
+    "prompt": "cursed pirate ship {prompt} . moonlit sails, foggy seas, cursed crew, dark romanticism painting",
+    "negative_prompt": "daytime, cheerful, cartoon, digital, simplistic"
+  },
+  {
+    "name": "Twilight Wilderness",
+    "prompt": "twilight wilderness {prompt} . fading light, dark woods, oil painting, sense of foreboding",
+    "negative_prompt": "daylit, cheerful, urban, digital, simplistic"
+  },
+  {
+    "name": "Abstract Phantasm",
+    "prompt": "abstract phantasm {prompt} . indistinct shapes, shadowy figures, oil on canvas, dark abstract art",
+    "negative_prompt": "clear, bright, literal, digital, cheerful"
+  },
+  {
+    "name": "Impressionist Gloom",
+    "prompt": "impressionist gloom {prompt} . vague impressions, dim lighting, moody scenes, heavy impasto",
+    "negative_prompt": "detailed, vibrant, cheerful, digital, minimalist"
+  },
+  {
+    "name": "Rustic Shadows",
+    "prompt": "rustic shadows {prompt} . abandoned farm, fading twilight, oil painting, aged textures",
+    "negative_prompt": "modern, vibrant, urban, digital, flat"
+  },
+  {
+    "name": "Grim Fairytale",
+    "prompt": "grim fairytale forest {prompt} . dark enchanted woods, oil on canvas, mysterious, Brothers Grimm inspired",
+    "negative_prompt": "cheerful, cartoonish, sunny, digital, simplistic"
   }, 
   {
     "name": "Abstract Expressionism",
