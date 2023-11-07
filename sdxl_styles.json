@@ -4,6 +4,56 @@
     "prompt": "{prompt}",
     "negative_prompt": ""
   },{
+    "name": "Epic Landscape",
+    "prompt": "cinematic epic landscape {prompt} . wide-angle, vibrant colors, HDR, high resolution, atmospheric perspective, dramatic natural lighting",
+    "negative_prompt": "flat, monochrome, low detail, artificial lighting, indoor"
+  },
+  {
+    "name": "Heroic Portrait",
+    "prompt": "cinematic heroic portrait {prompt} . strong contrast, dynamic colors, chiaroscuro lighting, high detail, epic composition",
+    "negative_prompt": "flat lighting, low contrast, cartoon, sketch, minimal detail"
+  },
+  {
+    "name": "Battle Scene",
+    "prompt": "cinematic battle scene {prompt} . dynamic color palette, motion blur, high impact, epic scale, detailed costume and armor",
+    "negative_prompt": "static, peaceful, everyday life, low detail, underexposed"
+  },
+  {
+    "name": "Futuristic Cityscape",
+    "prompt": "cinematic futuristic cityscape {prompt} . neon colors, epic scale, high detail, dramatic skyline, atmospheric mood",
+    "negative_prompt": "pastoral, rural, natural, low detail, desaturated"
+  },
+  {
+    "name": "Historical Epic",
+    "prompt": "cinematic historical epic {prompt} . rich color scheme, dramatic lighting, period accurate, high detail, grand scale",
+    "negative_prompt": "modern, contemporary, abstract, minimalistic, low detail"
+  },
+  {
+    "name": "Space Opera",
+    "prompt": "cinematic space opera {prompt} . vibrant deep space colors, epic starfields, high detail, dramatic compositions",
+    "negative_prompt": "everyday, mundane, low detail, monochrome, static"
+  },
+  {
+    "name": "Underwater Odyssey",
+    "prompt": "cinematic underwater odyssey {prompt} . varied blues and greens, light rays filtering through water, epic marine life, high detail",
+    "negative_prompt": "dry, arid, desert, low detail, monochrome"
+  },
+  {
+    "name": "Mythological Tale",
+    "prompt": "cinematic mythological tale {prompt} . rich tapestry of colors, epic storytelling, detailed characters, mythical creatures",
+    "negative_prompt": "modern day, realistic, low detail, monochrome, static"
+  },
+  {
+    "name": "Gothic Noir",
+    "prompt": "cinematic gothic noir {prompt} . dark color palette with vibrant accents, moody atmosphere, high detail, epic shadows",
+    "negative_prompt": "bright, cheerful, cartoon, flat, low detail"
+  },
+  {
+    "name": "Post-Apocalyptic Vision",
+    "prompt": "cinematic post-apocalyptic vision {prompt} . desaturated with color highlights, epic ruins, detailed dystopian elements",
+    "negative_prompt": "pristine, utopian, low detail, overexposed, vibrant"
+  },
+{
     "name": "Gothic Horror",
     "prompt": "dark gothic horror scene {prompt} . high contrast, eerie shadows, oil painting, highly detailed, chiaroscuro lighting, macabre",
     "negative_prompt": "bright, cheerful, cartoon, digital, abstract, undetailed"
